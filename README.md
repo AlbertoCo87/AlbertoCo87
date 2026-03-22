@@ -1,6 +1,6 @@
 ## ⚡ Sejam bem vindos! ⚡
 
-### Me chamo Alberto Correia e aqui vocês encontraram todas as minha Skills e desenvolvimentos com Dev.
+### Me chamo Alberto Correia e aqui vocês encontraram todas as minha Skills e desenvolvimentos como Dev.
 
 ### Tecnologias que estou estudando:
 
